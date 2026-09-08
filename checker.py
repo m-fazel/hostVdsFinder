@@ -1,5 +1,5 @@
 import requests
-from playsound import playsound
+from playsound3 import playsound
 import time
 
 def fetch_regions_and_check_conditions():
